@@ -5,8 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on #30days30submits
 - 🌱 I’m currently learning node.js
 - 📫 How to reach me: social media or email ?
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him/cifar
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
