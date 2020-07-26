@@ -1,4 +1,6 @@
-### Hello 👋, Arfan here
+## Hi 👋, Arfan here
+
+![My img](./Hi.png)
 
 Here are some ideas to get you started:
 
