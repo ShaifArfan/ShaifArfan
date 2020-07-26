@@ -1,6 +1,6 @@
 ## Hi 👋, Arfan here
 
-![My img](./ShaifArfan.png)
+![My img](./ShaifArfan-banner.png)
 
 Here are some ideas to get you started:
 
