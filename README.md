@@ -1,6 +1,6 @@
 ## Hi 👋, Arfan here
 
-![My img](./ShaifArfan-banner.png)
+<img src="https://raw.githubusercontent.com/ShaifArfan/ShaifArfan/master/ShaifArfan-banner.png"> 
 
 Here are some ideas to get you started:
 
