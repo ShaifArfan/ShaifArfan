@@ -1,18 +1,14 @@
-## Hi 👋, Arfan here
-
 <img src="https://raw.githubusercontent.com/ShaifArfan/ShaifArfan/master/ShaifArfan-banner.png"> 
 
-Here are some ideas to get you started:
+## Hi 👋, Arfan here
 
+Here are some ideas to get you started:
 - 🔭 I’m currently working on #30days30submits
 - 🌱 I’m currently learning node.js
-- 📫 How to reach me: social media or email ?
+- 📫 How to reach me: social media or email
 - 😄 Pronouns: he/him/cifar
-- <a href="https://www.youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/ZFQkb26UD1Y?label=YouTube&logo=YouTube&style=for-the-badge?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
   
-  ### Connect with me:
+### Connect with me:
 
 [<img align="left" alt="webcifar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="webcifar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -47,8 +43,8 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:END -->
 
 ---
-
-<img align="left" alt="shaifArfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shiafArfan&show_icons=true&hide_border=true" />
+### ShaifArfan's Stats
+<img align="left" alt="shaifArfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShaifArfan&show_icons=true&hide_border=true" />
 
 [website]: https://webcifar.com
 [twitter]: https://twitter.com/webcifar
