@@ -39,6 +39,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [CSS Flex Box Photo Gallery](https://www.youtube.com/watch?v=Z6IZ2NOEzmw)
+- [How To Create CSS Animated Navigation Menu Bar](https://www.youtube.com/watch?v=q8vmz-R_3Ck)
+- [Making a Key Code Generator App Using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=jOLwRV6xSwA)
+- [How To Create Read More / Show More Button Using A Little JavaScript](https://www.youtube.com/watch?v=TvVY8c1uvG8)
+- [Photo Gallery App Part-2 | JavaScript Fetch With Pexels API](https://www.youtube.com/watch?v=gGBpmzLN1Hw)
 <!-- YOUTUBE:END -->
 
 [website]: https://webcifar.com
