@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+
+<img align="left" alt="shaifArfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shiafArfan&show_icons=true&hide_border=true" />
+
 [website]: https://webcifar.com
 [twitter]: https://twitter.com/webcifar
 [youtube]: https://youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ
