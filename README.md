@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Change Background color on Click | Random Color Generator with JavaScript](https://www.youtube.com/watch?v=Yem8T8azZko)
 - [How To Create A Digital Clock With Time Format Switcher](https://www.youtube.com/watch?v=gmNhRyxAPpw)
 - [How To Create Analog Clock With HTML, CSS, JavaScript](https://www.youtube.com/watch?v=6xEQ_jA5V2Y)
 - [CSS Flex Box Photo Gallery](https://www.youtube.com/watch?v=Z6IZ2NOEzmw)
 - [How To Create CSS Animated Navigation Menu Bar](https://www.youtube.com/watch?v=q8vmz-R_3Ck)
-- [Making a Key Code Generator App Using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=jOLwRV6xSwA)
 <!-- YOUTUBE:END -->
 
 ---
