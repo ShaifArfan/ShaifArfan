@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [CSS Basic Tooltip | Simple Tooltip | Infotip | Hint](https://www.youtube.com/watch?v=MXRxahbJX3A)
+- [Simple CSS Tooltip | Basic Tooltip | Infotip | Hint](https://www.youtube.com/watch?v=MXRxahbJX3A)
 - [Change Background color on Click | Random Color Generator with JavaScript](https://www.youtube.com/watch?v=Yem8T8azZko)
 - [How To Create A Digital Clock With Time Format Switcher](https://www.youtube.com/watch?v=gmNhRyxAPpw)
 - [How To Create Analog Clock With HTML, CSS, JavaScript](https://www.youtube.com/watch?v=6xEQ_jA5V2Y)
