@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on #30days30submits 
-- 🌱 I’m currently learning node.js & English 
+- 🌱 I’m currently learning node.js & English 🙄
 - 📫 How to reach me: social media or email
 - 😄 Pronouns: he/him/cifar
   
