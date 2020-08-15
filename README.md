@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Create Multi Step Form Using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=cKTgIDkRsGc)
 - [HTML Form to Mail | Create Full Functional HTML Form Without Any Back-end](https://www.youtube.com/watch?v=vc9rgFHr098)
 - [Create Advance Tooltip | Image Hotspot using HTML, CSS, JavaScript](https://www.youtube.com/watch?v=e_jEquJo7y8)
 - [CSS Scroll Down Animated Button | Scroll More Button](https://www.youtube.com/watch?v=LY1jeQGUiAI)
 - [Simple CSS Tooltip | Basic Tooltip | Infotip | Hint](https://www.youtube.com/watch?v=MXRxahbJX3A)
-- [Change Background color on Click | Random Color Generator with JavaScript](https://www.youtube.com/watch?v=Yem8T8azZko)
 <!-- YOUTUBE:END -->
 
 ---
