@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [CSS Neon Glowing Light With Flickering Effect](https://www.youtube.com/watch?v=NLtUycloTnc)
 - [Create A Food Recipe App Using Vanilla JavaScript For Beginners](https://www.youtube.com/watch?v=x8EY0BlhPGk)
 - [CSS Loading Animation | Simple CSS Loader Animation](https://www.youtube.com/watch?v=E_jOrp4t0N4)
 - [How to Create Multi Step Form Using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=cKTgIDkRsGc)
 - [HTML Form to Mail | Create Full Functional HTML Form Without Any Back-end](https://www.youtube.com/watch?v=vc9rgFHr098)
-- [Create Advance Tooltip | Image Hotspot using HTML, CSS, JavaScript](https://www.youtube.com/watch?v=e_jEquJo7y8)
 <!-- YOUTUBE:END -->
 
 ---
