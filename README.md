@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Bouncing DVD Logo With Vanilla JavaScript For Beginners](https://www.youtube.com/watch?v=wMIARRCox9k)
 - [Create Custom Slider With Vanilla JavaScript](https://www.youtube.com/watch?v=V9TCxMMpGhI)
 - [Speech Recognition App Using Vanilla JavaScript](https://www.youtube.com/watch?v=-k-PgvbktX4)
 - [CSS Neon Glowing Light With Flickering Effect](https://www.youtube.com/watch?v=NLtUycloTnc)
 - [Create A Food Recipe App Using Vanilla JavaScript For Beginners](https://www.youtube.com/watch?v=x8EY0BlhPGk)
-- [CSS Loading Animation | Simple CSS Loader Animation](https://www.youtube.com/watch?v=E_jOrp4t0N4)
 <!-- YOUTUBE:END -->
 
 ---
