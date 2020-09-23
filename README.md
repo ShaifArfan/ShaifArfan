@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build A Quiz App With JavaScript | Mini Project For Beginners](https://www.youtube.com/watch?v=qXXM9nVxLWk)
 - [How To Create Simple CSS Dot Loaders](https://www.youtube.com/watch?v=ENa4y_-fJAs)
 - [Bouncing DVD Logo With Vanilla JavaScript For Beginners](https://www.youtube.com/watch?v=wMIARRCox9k)
 - [Create Custom Slider With Vanilla JavaScript](https://www.youtube.com/watch?v=V9TCxMMpGhI)
 - [Speech Recognition App Using Vanilla JavaScript](https://www.youtube.com/watch?v=-k-PgvbktX4)
-- [CSS Neon Glowing Light With Flickering Effect](https://www.youtube.com/watch?v=NLtUycloTnc)
 <!-- YOUTUBE:END -->
 
 ---
