@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build A Simple Calculator With JavaScript | Mini Project For Beginners](https://www.youtube.com/watch?v=0Vg4EiYPCUc)
 - [Create A Weather Forecast App Using Vanilla JavaScript For Beginners](https://www.youtube.com/watch?v=y0iCeKUsYMk)
 - [Build A Quiz App With JavaScript | Mini Project For Beginners](https://www.youtube.com/watch?v=qXXM9nVxLWk)
 - [How To Create Simple CSS Dot Loaders](https://www.youtube.com/watch?v=ENa4y_-fJAs)
 - [Bouncing DVD Logo With Vanilla JavaScript For Beginners](https://www.youtube.com/watch?v=wMIARRCox9k)
-- [Create Custom Slider With Vanilla JavaScript](https://www.youtube.com/watch?v=V9TCxMMpGhI)
 <!-- YOUTUBE:END -->
 
 ---
