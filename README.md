@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Overlapping Layout With CSS Flex Box](https://www.youtube.com/watch?v=_HTL0XSMcRQ)
 - [Binary Decoder App With Vanilla JavaScript](https://www.youtube.com/watch?v=nf7ps0CkpHg)
 - [Build A Simple Calculator With JavaScript | Mini Project For Beginners](https://www.youtube.com/watch?v=0Vg4EiYPCUc)
 - [Create A Weather Forecast App Using Vanilla JavaScript For Beginners](https://www.youtube.com/watch?v=y0iCeKUsYMk)
 - [Build A Quiz App With JavaScript | Mini Project For Beginners](https://www.youtube.com/watch?v=qXXM9nVxLWk)
-- [How To Create Simple CSS Dot Loaders](https://www.youtube.com/watch?v=ENa4y_-fJAs)
 <!-- YOUTUBE:END -->
 
 ---
