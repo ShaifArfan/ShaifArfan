@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Liquid Image Slider with JavaScript | rgbKineticSlider With Distortion Effect](https://www.youtube.com/watch?v=mw7nSuIWQh8)
 - [Liquid Image Hover Effect With JavaScript](https://www.youtube.com/watch?v=3RNzWyXigMc)
 - [On Hover Background Change With HTML, CSS & JS | Modern Hero Section](https://www.youtube.com/watch?v=qDxlBe2OhJU)
 - [Overlapping Layout With CSS Flex Box](https://www.youtube.com/watch?v=_HTL0XSMcRQ)
 - [Binary Decoder App With Vanilla JavaScript](https://www.youtube.com/watch?v=nf7ps0CkpHg)
-- [Build A Simple Calculator With JavaScript | Mini Project For Beginners](https://www.youtube.com/watch?v=0Vg4EiYPCUc)
 <!-- YOUTUBE:END -->
 
 ---
