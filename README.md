@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/ShaifArfan/ShaifArfan/master/ShaifArfan-banner.png"> 
-
 ## Hi 👋, Arfan here
 
 Here are some ideas to get you started:
