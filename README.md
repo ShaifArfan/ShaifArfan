@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Skew Effect On Horizontal Scroll With JavaScript](https://www.youtube.com/watch?v=mce6_FyZDEU)
 - [How to make a restaurant website - 2021 Tutorial](https://www.youtube.com/watch?v=4n4F0zve7Q8)
 - [Liquid Image Slider with JavaScript | rgbKineticSlider With Distortion Effect](https://www.youtube.com/watch?v=mw7nSuIWQh8)
 - [Liquid Image Hover Effect With JavaScript](https://www.youtube.com/watch?v=3RNzWyXigMc)
 - [On Hover Background Change With HTML, CSS & JS | Modern Hero Section](https://www.youtube.com/watch?v=qDxlBe2OhJU)
-- [Overlapping Layout With CSS Flex Box](https://www.youtube.com/watch?v=_HTL0XSMcRQ)
 <!-- YOUTUBE:END -->
 
 ---
