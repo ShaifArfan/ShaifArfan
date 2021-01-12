@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Highlight Nav Menu on scroll with JavaScript](https://www.youtube.com/watch?v=RsPWEmfOQdU)
 - [Skew Scrolling Effect With JavaScript](https://www.youtube.com/watch?v=L4YtP6likYI)
 - [Skew Effect On Horizontal Scroll With JavaScript](https://www.youtube.com/watch?v=mce6_FyZDEU)
 - [How to make a restaurant website - 2021 Tutorial](https://www.youtube.com/watch?v=4n4F0zve7Q8)
 - [Liquid Image Slider with JavaScript | rgbKineticSlider With Distortion Effect](https://www.youtube.com/watch?v=mw7nSuIWQh8)
-- [Liquid Image Hover Effect With JavaScript](https://www.youtube.com/watch?v=3RNzWyXigMc)
 <!-- YOUTUBE:END -->
 
 ---
