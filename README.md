@@ -40,14 +40,3 @@ Here are some ideas to get you started:
 - [Skew Scrolling Effect With JavaScript](https://www.youtube.com/watch?v=L4YtP6likYI)
 <!-- YOUTUBE:END -->
 
----
-### ShaifArfan's Stats
-<img align="left" alt="shaifArfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShaifArfan&show_icons=true&hide_border=true" />
-
-[website]: https://webcifar.com
-[twitter]: https://twitter.com/webcifar
-[youtube]: https://youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ
-[instagram]: https://instagram.com/web_cifar
-[webdevplaylist]: https://www.youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ/playlists
-[jsplaylist]: https://www.youtube.com/playlist?list=PLRv_Gd5w9e7mmALZQWt_DJErngAFLp-aV
-[HTMLcssplaylist]: https://www.youtube.com/playlist?list=PLRv_Gd5w9e7mmrNLpQTB9RWMsVoRt2moe
