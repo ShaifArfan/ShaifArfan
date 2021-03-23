@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 
 🤙 Socials: [FB][FB] - [IG][IG] - [TW][TW]
 
-<br />
-<br />
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
