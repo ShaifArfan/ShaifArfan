@@ -6,6 +6,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: social media or email
 - 😄 Pronouns: he/him/cifar
 
+
+🤙 Socials: [FB][FB] - [IG][IG] - [TW][TW]
+
 <br />
 <br />
 
@@ -18,3 +21,6 @@ Here are some ideas to get you started:
 - [Portfolio Website Project for Practice | Part-04 | Stats Section | HTML & CSS Project](https://www.youtube.com/watch?v=NQi0vR2g-x8)
 <!-- YOUTUBE:END -->
 
+[FB]: http:facebook.com/shaifarfan08
+[IG]: http:instagram.com/shaifarfan08
+[TW]: http:twitter.com/shaifarfan08
