@@ -1,7 +1,6 @@
 ## Hi 👋, Arfan here
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on #30days30submits 
+Here are some ideas to get you started: 
 - 🌱 I’m currently learning node.js & English 🙄
 - 📫 How to reach me: social media or email
 - 😄 Pronouns: he/him/cifar
