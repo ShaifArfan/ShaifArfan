@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/cifar
 
 
-🤙 Socials: [FB][FB] - [IG][IG] - [TW][TW]
+🤙 Socials : [FB][FB] - [IG][IG] - [TW][TW]
+
+🏦 Web Cifar : [FB][WCFB] - [IG][WCIG] - [TW][WCTW] - [WEBSITE][WCWebsite]
 
 
 ### 📺 Latest YouTube Videos
@@ -19,6 +21,10 @@ Here are some ideas to get you started:
 - [Portfolio Website Project for Practice | Part-05 | About Section | HTML & CSS Project](https://www.youtube.com/watch?v=_OwXt3jgNaQ)
 <!-- YOUTUBE:END -->
 
-[FB]: http:facebook.com/shaifarfan08
-[IG]: http:instagram.com/shaifarfan08
-[TW]: http:twitter.com/shaifarfan08
+[FB]: http://facebook.com/shaifarfan08
+[IG]: http://instagram.com/shaifarfan08
+[TW]: http://twitter.com/shaifarfan08
+[WCFB]: http://facebook.com/webcifar
+[WCIG]: http://instagram.com/web_cifar
+[WCTW]: http://twitter.com/webcifar
+[WCWebsite]: http://webcifar.com
