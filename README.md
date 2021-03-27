@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Portfolio Website Project for Practice | Part-10 | Scroll Top & Deploying site | HTML & CSS Project](https://www.youtube.com/watch?v=8pTZE-1xgkk)
 - [Portfolio Website Project for Practice | Part-09 | Contact Page | HTML & CSS Project](https://www.youtube.com/watch?v=UTJll6FH8BM)
 - [Portfolio Website Project for Practice | Part-08 | Nav Menu | HTML & CSS Project](https://www.youtube.com/watch?v=T2DM12ZJlSk)
 - [Portfolio Website Project for Practice | Part-07 | Footer Section | HTML & CSS Project](https://www.youtube.com/watch?v=x0q8oXe5NKs)
 - [Portfolio Website Project for Practice | Part-06 | Projects Section | HTML & CSS Project](https://www.youtube.com/watch?v=Ch4N48a2ytg)
-- [Portfolio Website Project for Practice | Part-05 | About Section | HTML & CSS Project](https://www.youtube.com/watch?v=_OwXt3jgNaQ)
 <!-- YOUTUBE:END -->
 
 [FB]: http://facebook.com/shaifarfan08
