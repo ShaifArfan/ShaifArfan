@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [Portfolio Website Project for Practice | Part-07 | Footer Section | HTML & CSS Project](https://www.youtube.com/watch?v=x0q8oXe5NKs)
 <!-- YOUTUBE:END -->
 
-[FB]: http://facebook.com/shaifarfan08
+[FB]: http://facebook.com/fb.shaifarfan08
 [IG]: http://instagram.com/shaifarfan08
 [TW]: http://twitter.com/shaifarfan08
 [WCFB]: http://facebook.com/webcifar
