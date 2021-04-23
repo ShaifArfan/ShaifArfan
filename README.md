@@ -1,9 +1,8 @@
 ## Hi 👋, Arfan here
 
 Here are some ideas to get you started: 
-- 🌱 I’m currently learning node.js & English 🙄
-- 📫 How to reach me: social media or email
-- 😄 Pronouns: he/him/cifar
+- 🌱 I’m currently learning node.js
+- 📫 How to reach me: social media
 
 
 🤙 Socials : [FB][FB] - [IG][IG] - [TW][TW]
