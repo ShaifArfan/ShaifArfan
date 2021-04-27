@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#02 Complete React Portfolio Website Project | Home (Hero Section)](https://www.youtube.com/watch?v=mB4uHPqcU8E)
 - [#01 Complete React Portfolio Website Project | NavMenu](https://www.youtube.com/watch?v=w8NSgfHfLug)
 - [#00 Complete React Portfolio Website Project | Intro & Setup](https://www.youtube.com/watch?v=esC2k9z7w2U)
 - [Create a Portfolio Website and Deploy |  HTML CSS Full Project](https://www.youtube.com/watch?v=78l05_nuDIg)
 - [Portfolio Website Project for Practice | Part-10 | Scroll Top & Deploying site | HTML & CSS Project](https://www.youtube.com/watch?v=8pTZE-1xgkk)
-- [Portfolio Website Project for Practice | Part-09 | Contact Page | HTML & CSS Project](https://www.youtube.com/watch?v=UTJll6FH8BM)
 <!-- YOUTUBE:END -->
 
 [FB]: http://facebook.com/fb.shaifarfan08
