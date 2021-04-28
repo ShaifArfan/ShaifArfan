@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [#02 Complete React Portfolio Website Project | Home (Hero Section)](https://www.youtube.com/watch?v=mB4uHPqcU8E)
+- [#02 Complete React Portfolio Website Project | Home (Hero Section)](https://www.youtube.com/watch?v=bJN34yW4lBI)
 - [#01 Complete React Portfolio Website Project | NavMenu](https://www.youtube.com/watch?v=w8NSgfHfLug)
 - [#00 Complete React Portfolio Website Project | Intro & Setup](https://www.youtube.com/watch?v=esC2k9z7w2U)
 - [Create a Portfolio Website and Deploy |  HTML CSS Full Project](https://www.youtube.com/watch?v=78l05_nuDIg)
