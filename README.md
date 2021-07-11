@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 🤙 Socials : [FB][FB] - [IG][IG] - [TW][TW]
 
-🏦 Web Cifar :[YT][WYT] - [FB][WCFB] - [IG][WCIG] - [TW][WCTW] - [WEBSITE][WCWebsite]
+🏦 Web Cifar : [YT][WYT] - [FB][WCFB] - [IG][WCIG] - [TW][WCTW] - [WEBSITE][WCWebsite]
 
 
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
