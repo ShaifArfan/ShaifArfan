@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
-
 - [HTML CSS Full Project | Restaurant Website | Shaif's Cuisine](https://www.youtube.com/watch?v=4y-_3Ayiauw)
 - [#11 Complete React Portfolio Website Project | Smooth Scroll & Deploy](https://www.youtube.com/watch?v=vijvtdEXfec)
 - [#10 Complete React Portfolio Website Project | Contact Page](https://www.youtube.com/watch?v=BtdM2_likL8)
