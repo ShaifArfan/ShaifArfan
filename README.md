@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning node.js
+- 🌱 Pronouns: He / him / his
 - 📫 How to reach me: social media
 
 🤙 Socials : [FB][fb] - [IG][ig] - [TW][tw]
