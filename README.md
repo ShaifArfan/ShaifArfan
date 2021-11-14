@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 Pronouns: He / him / his
+- 🌱 Pronouns: he/him/his
 - 📫 How to reach me: social media
 
 🤙 Socials : [FB][fb] - [IG][ig] - [TW][tw]
