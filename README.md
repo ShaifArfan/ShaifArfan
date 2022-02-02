@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
-- [Behind the scenes 😇](https://www.youtube.com/watch?v=cfPXUsIMxMo)
 - [A Complete React Todo App using React, Redux, Framer Motion](https://www.youtube.com/watch?v=W0Uf_xu350k)
 - [Credit Card 3D Rotation Animation On Hover Using  HTML CSS &amp; JavaScript](https://www.youtube.com/watch?v=gvO3JTCevKc)
 - [React JS Website Project With Dark Theme for Beginners | Artistic](https://www.youtube.com/watch?v=DTR2IbNBfPA)
 - [HTML CSS Full Project | Restaurant Website | Shaif&#39;s Cuisine](https://www.youtube.com/watch?v=4y-_3Ayiauw)
+- [#11 Complete React Portfolio Website Project | Smooth Scroll &amp; Deploy](https://www.youtube.com/watch?v=vijvtdEXfec)
 <!-- YOUTUBE:END -->
 
 [fb]: http://facebook.com/fb.shaifarfan08
