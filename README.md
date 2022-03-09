@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [#03 - JAMStack Project with Gatsby.js + Sanity.io | Sanity Rich-Text Editor](https://www.youtube.com/watch?v=2M6TBHdPTZk)
 - [#02 - JAMStack Project with Gatsby.js + Sanity.io | Sanity Schema](https://www.youtube.com/watch?v=qk3IzFre_qI)
 - [#01 - JAMStack Project with Gatsby.js + Sanity.io |  Sanity Setup](https://www.youtube.com/watch?v=xWM0usCfy5w)
 - [A Complete React Todo App using React, Redux, Framer Motion](https://www.youtube.com/watch?v=W0Uf_xu350k)
 - [Credit Card 3D Rotation Animation On Hover Using  HTML CSS &amp; JavaScript](https://www.youtube.com/watch?v=gvO3JTCevKc)
-- [React JS Website Project With Dark Theme for Beginners | Artistic](https://www.youtube.com/watch?v=DTR2IbNBfPA)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
