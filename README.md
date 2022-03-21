@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
-- [#08 - JAMStack Project with Gatsby.js + Sanity.io | Gatsby Layout &amp; Navbar](https://www.youtube.com/watch?v=J733jL69tKk)
+- [#08 - React Blog Website with Gatsby.js &amp; Sanity.io | Gatsby Layout &amp; Navbar](https://www.youtube.com/watch?v=J733jL69tKk)
 - [#07 - React Blog Website with Gatsby.js &amp; Sanity.io | Data Import &amp; Deploy](https://www.youtube.com/watch?v=J1wZ76U3NHM)
 - [#06 - React Blog Website with Gatsby.js &amp; Sanity.io | Customize Sanity Sidebar](https://www.youtube.com/watch?v=ZX73W57Bypk)
 - [#05 - React Blog Website with Gatsby.js &amp; Sanity.io | Featured Schema](https://www.youtube.com/watch?v=cDrbPQTwQFA)
