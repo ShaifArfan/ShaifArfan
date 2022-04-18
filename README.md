@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [#20 - React Blog Website with Gatsby.js &amp; Sanity.io | Category List Pages](https://www.youtube.com/watch?v=PV9yRIK0lvE)
 - [#19 - React Blog Website with Gatsby.js &amp; Sanity.io | Single Category Page](https://www.youtube.com/watch?v=MpqebvqYpdo)
 - [#18 - React Blog Website with Gatsby.js &amp; Sanity.io | Blog List Pages](https://www.youtube.com/watch?v=JhAvDr_RkI4)
 - [#17 - React Blog Website with Gatsby.js &amp; Sanity.io | Single Blog Page](https://www.youtube.com/watch?v=6OCji3Eyib4)
 - [#16 - React Blog Website with Gatsby.js &amp; Sanity.io | Create Page Programmatically](https://www.youtube.com/watch?v=1OAlIBAMNvc)
-- [#15 - React Blog Website with Gatsby.js &amp; Sanity.io | 404 Page](https://www.youtube.com/watch?v=ELwqvGB8CE8)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
