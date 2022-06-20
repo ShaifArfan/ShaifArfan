@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [JWT Authentication with Cookies in Express Server](https://www.youtube.com/watch?v=rXu9Z2yMZzA)
 - [Express MongoDB CRUD APIs](https://www.youtube.com/watch?v=jBoAG8yoRlo)
 - [React Portfolio with Tailwind CSS - Dark Mode &amp; Vite.js](https://www.youtube.com/watch?v=QTY2fLpQn44)
 - [Rating UI Component using HTML, CSS &amp; JavaScript](https://www.youtube.com/watch?v=Oy0LJlFtF-s)
 - [#22 - React Blog Website with Gatsby.js &amp; Sanity.io | Gatsby plugin Local Search &amp; Deploy](https://www.youtube.com/watch?v=i4W-NfXafAA)
-- [#21 - React Blog Website with Gatsby.js &amp; Sanity.io | Authors Pages](https://www.youtube.com/watch?v=G9DsCNIS7uc)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
