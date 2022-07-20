@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
-- [ESLint setup with prettier for any JS Project](https://www.youtube.com/watch?v=eMgLHOrDkAs)
+- [ESLint setup with prettier for any JS Project in VS Code](https://www.youtube.com/watch?v=eMgLHOrDkAs)
 - [HTML CSS Resume | Beginner Project](https://www.youtube.com/watch?v=FHb9JobDs2o)
 - [JWT Authentication with Cookies in Express Server](https://www.youtube.com/watch?v=rXu9Z2yMZzA)
 - [Express MongoDB CRUD APIs](https://www.youtube.com/watch?v=jBoAG8yoRlo)
