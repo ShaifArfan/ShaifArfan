@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [Mern Stack Project For Beginners | Todo App](https://www.youtube.com/watch?v=7s7RHc_8SaU)
 - [ESLint setup with prettier for any JS Project in VS Code](https://www.youtube.com/watch?v=eMgLHOrDkAs)
 - [HTML CSS Resume | Beginner Project](https://www.youtube.com/watch?v=FHb9JobDs2o)
 - [JWT Authentication with Cookies in Express Server](https://www.youtube.com/watch?v=rXu9Z2yMZzA)
 - [Express MongoDB CRUD APIs](https://www.youtube.com/watch?v=jBoAG8yoRlo)
-- [React Portfolio with Tailwind CSS - Dark Mode &amp; Vite.js](https://www.youtube.com/watch?v=QTY2fLpQn44)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
