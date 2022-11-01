@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [OTP Screen UI using HTML, CSS &amp; JS](https://www.youtube.com/watch?v=ZVV2UM4hzIE)
 - [Password Generator App | JS Project For Beginners](https://www.youtube.com/watch?v=zmLxhLOVB1M)
 - [Next.js Link Component](https://www.youtube.com/watch?v=hKsRPYZ-3Jg)
 - [Next.js + MDX Blog Website](https://www.youtube.com/watch?v=hpSubvgSvxo)
 - [React.js Recipe App Project | Next.js | React Query](https://www.youtube.com/watch?v=JtfduKrxRH8)
-- [Mern Stack Project For Beginners | Todo App | JWT | Cookies | Auth](https://www.youtube.com/watch?v=7s7RHc_8SaU)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
