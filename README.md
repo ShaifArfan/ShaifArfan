@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [Serve your static files with Lite-Server](https://www.youtube.com/watch?v=fvfsx2rwdMk)
 - [TypeScript Exclude Union Item](https://www.youtube.com/watch?v=xXNt7eHwhP0)
 - [React Password Generator App | Beginner Project](https://www.youtube.com/watch?v=7zRMDRISchA)
 - [JS Array Methods - Map &amp; ForEach](https://www.youtube.com/watch?v=rg6r2JtuxTE)
 - [OTP Screen UI using HTML, CSS &amp; JS](https://www.youtube.com/watch?v=ZVV2UM4hzIE)
-- [Password Generator App | JS Project For Beginners](https://www.youtube.com/watch?v=zmLxhLOVB1M)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
