@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [Get more precise Console.log&lpar; &rpar; in JavaScript](https://www.youtube.com/watch?v=96_eLekqaog)
+- [JS Array Method - Filter](https://www.youtube.com/watch?v=k9P1uDYRrBI)
 - [HTML &amp; Tailwind CSS Landing Page for Podcast | Tailwind Project](https://www.youtube.com/watch?v=Ns3Qu_xwZXw)
 - [Serve your static files with Lite-Server](https://www.youtube.com/watch?v=fvfsx2rwdMk)
 - [TypeScript Exclude Union Item](https://www.youtube.com/watch?v=xXNt7eHwhP0)
-- [React Password Generator App | Beginner Project](https://www.youtube.com/watch?v=7zRMDRISchA)
-- [JS Array Methods - Map &amp; ForEach](https://www.youtube.com/watch?v=rg6r2JtuxTE)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
