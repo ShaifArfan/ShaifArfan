@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [File uploader SDK for React | Filestack](https://www.youtube.com/watch?v=QX86-5bTUNM)
 - [Get more precise Console.log&lpar; &rpar; in JavaScript](https://www.youtube.com/watch?v=96_eLekqaog)
 - [JS Array Method - Filter](https://www.youtube.com/watch?v=k9P1uDYRrBI)
 - [HTML &amp; Tailwind CSS Landing Page for Podcast | Tailwind Project](https://www.youtube.com/watch?v=Ns3Qu_xwZXw)
 - [Serve your static files with Lite-Server](https://www.youtube.com/watch?v=fvfsx2rwdMk)
-- [TypeScript Exclude Union Item](https://www.youtube.com/watch?v=xXNt7eHwhP0)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
