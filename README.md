@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 [fb]: http://facebook.com/fb.shaifarfan08
 [ig]: http://instagram.com/shaifarfan08
 [tw]: http://twitter.com/shaifarfan08
-[wcfb]: http://facebook.com/webcifar
-[wcig]: http://instagram.com/web_cifar
+[wcfb]: http://facebook.com/cifarx
+[wcig]: http://instagram.com/cifarx
 [wctw]: http://twitter.com/webcifar
 [wcwebsite]: http://webcifar.com
 [wyt]: https://www.youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ
