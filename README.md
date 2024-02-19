@@ -5,9 +5,11 @@ Here are some ideas to get you started:
 - 🌱 Pronouns: he/him/his
 - 📫 How to reach me: social media
 
-🤙 Socials : [FB][fb] - [IG][ig] - [TW][tw]
+🤙 Socials : [YT][wyt] - [FB][fb] - [IG][ig] - [TW][tw]
 
-🏦 Web Cifar : [YT][wyt] - [FB][wcfb] - [IG][wcig] - [TW][wctw] - [WEBSITE][wcwebsite]
+🌐 Website: [https://shaifarfan.com](https://shaifarfan.com)
+
+🏦 CifarX : [FB][wcfb] - [IG][wcig] - [TW][wctw] - [WEBSITE][wcwebsite]
 
 
    <p align="left">
@@ -39,6 +41,6 @@ Here are some ideas to get you started:
 [tw]: http://twitter.com/shaifarfan08
 [wcfb]: http://facebook.com/cifarx
 [wcig]: http://instagram.com/cifarx
-[wctw]: http://twitter.com/webcifar
+[wctw]: http://x.com/TeamCifarX
 [wcwebsite]: http://webcifar.com
-[wyt]: https://www.youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ
+[wyt]: https://www.youtube.com/@webcifar/
