@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [Airbnb ESLint &amp; Prettier Setup With React.js &amp; TypeScript](https://www.youtube.com/watch?v=6O_IPMwdQaU)
 - [CSS Smooth Curved Card](https://www.youtube.com/watch?v=fhkUCMKK3yA)
 - [npm Package Update](https://www.youtube.com/watch?v=waUxumbVhbU)
 - [Zustand Crash Course | React State Management](https://www.youtube.com/watch?v=QztUD2g85jo)
 - [File uploader SDK for React | Filestack](https://www.youtube.com/watch?v=QX86-5bTUNM)
-- [Get more precise Console.log&lpar; &rpar; in JavaScript](https://www.youtube.com/watch?v=96_eLekqaog)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
