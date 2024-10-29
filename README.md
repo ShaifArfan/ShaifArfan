@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [Text Outline Overlay with CSS](https://www.youtube.com/watch?v=zA3-ddPuKDg)
 - [Easy Setup of Auth.js v5 with Next.js 14: Google &amp; GitHub OAuth Tutorial](https://www.youtube.com/watch?v=xpJ4VBc5Qr0)
 - [useForm - React custom hook for handling form](https://www.youtube.com/watch?v=4vqdLl_uzDU)
 - [Airbnb ESLint &amp; Prettier Setup With React.js &amp; TypeScript](https://www.youtube.com/watch?v=6O_IPMwdQaU)
 - [CSS Smooth Curved Card](https://www.youtube.com/watch?v=fhkUCMKK3yA)
-- [npm Package Update](https://www.youtube.com/watch?v=waUxumbVhbU)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
