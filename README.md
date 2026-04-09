@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 
 🤙 Socials : [YT][wyt] - [FB][fb] - [IG][ig] - [TW][tw]
 
-🌐 Website: [https://shaifarfan.com](https://shaifarfan.com)
-
 🏦 CifarX : [FB][wcfb] - [IG][wcig] - [TW][wctw] - [WEBSITE][wcwebsite]
 
 
