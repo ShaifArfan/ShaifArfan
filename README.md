@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxaLo9ALJgXgOUDURRPGiQ?style=social)
 
 <!-- YOUTUBE:START -->
+- [Your day, done on purpose | prohor.day #productivity](https://www.youtube.com/shorts/-C6iTU28yyY)
 - [plan my day before it starts | prohor.day](https://www.youtube.com/shorts/Zdt4xwJLFWg)
 - [Share Your Day | Prohor.day](https://www.youtube.com/shorts/ZJAecl-SNVg)
 - [Prohor Timeline View | prohor.day](https://www.youtube.com/shorts/BuNwaxip-XQ)
 - [Parameters &amp; Arguments](https://www.youtube.com/shorts/9ReDEkkEgqk)
-- [Top 5 Free Resources to Learn Web Development in 2025](https://www.youtube.com/watch?v=ZSdJ1JJW1yU)
 <!-- YOUTUBE:END -->
 
 ### ♥ Like my works and want to support me?
